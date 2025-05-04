@@ -1,0 +1,11 @@
+{
+  "nome": "João",
+  "idade": 30,
+  "ativo": true,
+  "conta": $9/3+21^1$,
+  "lista": [1, 2, 3, $4*5$],
+  "objeto": {
+    "x": $2^3$,
+    "y": "texto"
+  }
+}
